@@ -1,0 +1,9 @@
+Hello, Gleb!
+
+require \anotherDir\file2-1.txt
+
+Text above is from file2-1.txt
+
+require \anotherDir\file2-2.txt
+
+Text above is from file2-2.txt OMG :>
