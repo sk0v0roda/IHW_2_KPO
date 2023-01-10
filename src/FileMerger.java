@@ -104,5 +104,5 @@ public class FileMerger {
         } catch (Exception ex) {
             ex.printStackTrace();
         }
-    } //метод записи содержимого файлов в результирующий файл
+    }
 }
